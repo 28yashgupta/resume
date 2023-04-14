@@ -1,0 +1,13 @@
+/*body{
+    background-color: red;
+}*/
+#cv-template{
+    display:none;
+}
+.background{
+    background-color: aqua;
+}
+.myimg{
+    border-radius: 50%;
+    width:200px;
+}
